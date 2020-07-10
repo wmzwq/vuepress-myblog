@@ -29,7 +29,7 @@ Here are some works of mine :books:
 
 4、项目的打包优化
 
-[[Link](https://www.google.com)]
+[[Link](https://github.com/wmzwq/vuepress-myblog)]
 
 </ProjectCard>
 
@@ -57,7 +57,7 @@ Here are some works of mine :books:
 
 4、项目的打包优化、上线
 
-[[Link](https://www.google.com)]
+[[Link](https://github.com/wmzwq/vuepress-myblog)]
 
 </ProjectCard>
 

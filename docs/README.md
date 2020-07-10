@@ -11,12 +11,12 @@ socials:
     link: https://github.com/wmzwq/vuepress-myblog
   - title: linkedin
     icon: '/icons/linkedin-mono.svg'
-    link: https://www.linkedin.com
+    link: #
   - title: instagram
     icon: '/icons/instagram-mono.svg'
     link: /article/
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: #
 bio: Work at South Tech
 email: 1966640056@qq.com
 ---
@@ -83,7 +83,7 @@ email: 1966640056@qq.com
 
 4、项目的打包优化
 
-[[Link](https://www.google.com)]
+[[Link](https://github.com/wmzwq/vuepress-myblog)]
 
 </ProjectCard>
 
@@ -111,7 +111,7 @@ email: 1966640056@qq.com
 
 4、项目的打包优化、上线
 
-[[Link](https://www.google.com)]
+[[Link](https://github.com/wmzwq/vuepress-myblog)]
 
 </ProjectCard>
 

@@ -16,20 +16,20 @@
 </p>
 
 <h2>
-  <a href="https://vuepress-homepage.netlify.com" target="_blank" title="Demo">
+  <a href="https://wmzwq.github.io/" target="_blank" title="Demo">
     Live Demo
   </a>
 </h2>
 
 Screenshots:
 
-| Home/Resume :newspaper: | Projects/Publications :books: |
+| Home/Resume :newspaper: | Projects :books: |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/71707796-8b275880-2dba-11ea-8db0-03172722c35d.png"/> | <img src="https://user-images.githubusercontent.com/5097752/71707797-8b275880-2dba-11ea-8239-c51f4bac6542.png"/> |
+| <img src="https://wmzwq.github.io/img/home.jpg"/> | <img src="https://wmzwq.github.io/img/project.jpg"/> |
 
 | About Me :raising_hand: | Docs/Articles :closed_book: |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/71707795-8b275880-2dba-11ea-9440-987d542c560c.png"/> | <img src="https://user-images.githubusercontent.com/5097752/71707798-8b275880-2dba-11ea-9777-d9d64ac4ad45.png"/> |
+| <img src="https://wmzwq.github.io/img/about.jpg"/> | <img src="https://wmzwq.github.io/img/blog.jpg"/> |
 
 <h2>
   <a href="https://github.com/wmzwq/vuepress-myblog" target="_blank" title="Getting Started">
@@ -77,8 +77,8 @@ It's **responsive** and **mobile friendly**.
 
 | Main | Projects | Doc | Sidebar |
 | :---: | :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/39163461-30a0e754-47ad-11e8-84ff-0c6716d6e937.jpg"/> | <img src="https://user-images.githubusercontent.com/5097752/39163230-2c917634-47ac-11e8-9c08-a87336c0bb02.jpg"/> | <img src="https://user-images.githubusercontent.com/5097752/39163235-32001436-47ac-11e8-8a80-f5aa1d639b82.png"/> | <img src="https://user-images.githubusercontent.com/5097752/39163238-368bfb5a-47ac-11e8-81b9-78a38af16dfe.jpg"/> |
-阎王
+| <img src="https://wmzwq.github.io/img/homeu.jpg"/> | <img src="https://wmzwq.github.io/img/aboutu.jpg"/> 
+| <img src="https://wmzwq.github.io/img/prou.jpg"/> | <img src="https://wmzwq.github.io/img/blogu.jpg"/> |
 ## Credit
 
 [VuePress](https://vuepress.vuejs.org/): Vue-powered Static Site Generator

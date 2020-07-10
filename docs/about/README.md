@@ -4,17 +4,16 @@ description: 'The biography and information about me.'
 avatar: /profile.jpg
 head: 'McGee'
 info: 'Work at South Tech'
-email: 1966640056@qq.com
 爱好: '喜欢看历史书，喜欢游泳，爱好旅游和摄影'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/wmzwq/vuepress-myblog
 - title: linkedin
-  link: https://www.linkedin.com
+  link: #
 - title: instagram
-  link: https://www.instagram.com
+  link: #
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: '1966640056.com'
 actions:
 - text: Projects
   link: /projects/
