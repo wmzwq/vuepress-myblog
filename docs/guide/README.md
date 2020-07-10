@@ -6,5 +6,6 @@
 - Vue
 - React
 - Css 
-
+- Git
+ 
 Now, let's try it :point_right:

@@ -8,7 +8,7 @@ profile: /profile.jpg
 socials:
   - title: github
     icon: '/icons/github.svg'
-    link: https://github.com/mtobeiyf
+    link: https://github.com/wmzwq/vuepress-myblog
   - title: linkedin
     icon: '/icons/linkedin-mono.svg'
     link: https://www.linkedin.com

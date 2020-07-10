@@ -12,7 +12,7 @@ module.exports = {
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
       { text: "Blog", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "GitHub", link: "https://github.com/wmzwq/vuepress-myblog" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Blog'),

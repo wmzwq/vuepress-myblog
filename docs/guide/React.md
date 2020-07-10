@@ -1,4 +1,4 @@
-# Customize
+# React
 
 We'll take this repo as an example to show you how to make this site as you like.
 
