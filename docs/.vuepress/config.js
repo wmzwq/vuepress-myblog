@@ -4,7 +4,6 @@ module.exports = {
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
-
   themeConfig: {
     search: false,
     nav: [
@@ -38,6 +37,7 @@ function genSidebarConfig (title) {
         '',
         'Vue',
         'React',
+        'Js',
         'Css',
         'Git',
       ]

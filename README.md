@@ -71,7 +71,8 @@ It's **static**, which means once generated, your site could be deployed anywher
 
 | Simple Editing | Elegant Output |
 | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/39165083-42470364-47b5-11e8-8e1b-e225e6cf4161.png"/> | <img src="https://user-images.githubusercontent.com/5097752/39165092-4af03422-47b5-11e8-986e-02bee0fe6979.jpg"/> |
+| <img src="https://user-images.githubusercontent.com/5097752/39165083-42470364-47b5-11e8-8e1b-e225e6cf4161.png"/> | 
+<img src="https://wmzwq.github.io/img/prou.jpg"/> |
 
 It's **responsive** and **mobile friendly**.
 
